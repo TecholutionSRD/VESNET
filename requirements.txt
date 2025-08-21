@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+pillow>=8.0.0
+
+# UI and visualization
+rich>=10.0.0
+
+# Optional dependencies
+jupyter
+matplotlib>=3.3.0
+scikit-learn>=0.24.0
